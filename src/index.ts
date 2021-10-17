@@ -1,5 +1,4 @@
-console.log('hye')
-
+import { abc } from './test';
 
 class LinkedList {
   val: string
@@ -10,14 +9,9 @@ class LinkedList {
 }
 
 
-let a = new LinkedList('a');
 
 
-
-let b = new LinkedList('b');
-
-
-console.log(a)
+console.log(abc)
 
 
 
